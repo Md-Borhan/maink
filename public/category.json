@@ -1,0 +1,24 @@
+{
+  "jobCategorys": [
+    {
+      "category_logo": "https://i.ibb.co/7WwM4vP/accounts-1.png",
+      "category_name": "Digital Marketing",
+      "jobs_available": "50k Jobs Available."
+    },
+    {
+      "category_logo": "https://i.ibb.co/GsywzNq/business-1.png",
+      "category_name": "Web Development",
+      "jobs_available": "35k Jobs Available."
+    },
+    {
+      "category_logo": "https://i.ibb.co/71zhV5Z/chip-1.png",
+      "category_name": "App Development",
+      "jobs_available": "20k Jobs Available."
+    },
+    {
+      "category_logo": "https://i.ibb.co/D9q86G3/social-media-1.png",
+      "category_name": "Wordpress Customization",
+      "jobs_available": "15k Jobs Available."
+    }
+  ]
+}

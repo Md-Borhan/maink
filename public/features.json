@@ -1,0 +1,112 @@
+{
+  "features": [
+    {
+      "id": "001",
+      "logo": "https://i.ibb.co/230yKbd/shopify.png",
+      "title": "Software Engineer",
+      "companyName": "Shopify",
+      "remoteOrOnsite": "Onsite",
+      "location": "San Francisco, CA",
+      "jobTime": "Full-time",
+      "salary": "$120,000 - $150,000",
+      "job_description": "We are seeking a software developer to join our growing team. The ideal candidate should have experience in developing scalable and secure applications using modern technologies.",
+      "job_responsibility": "Develop, test, and maintain software applications. Collaborate with cross-functional teams to identify and solve complex problems. Write clean, maintainable, and efficient code.",
+      "educationalRequirements": "Bachelor's or Master's degree in Computer Science or related field",
+      "experiences": "3+ years of experience in software engineering",
+      "contactInformation": {
+        "phone": "555-1111",
+        "email": "jobs@abctech.com"
+      }
+    },
+    {
+      "id": "002",
+      "logo": "https://i.ibb.co/3B2nVLs/google-1-1-1.png",
+      "title": "Data Analyst",
+      "companyName": "Google LLC",
+      "remoteOrOnsite": "Remote",
+      "location": "United States",
+      "jobTime": "Part-time",
+      "salary": "$25 - $30 per hour",
+      "job_description": "We are seeking a data analyst to join our team. The ideal candidate should have a strong background in statistics and experience in using data analytics tools.",
+      "job_responsibility": "Analyze large datasets to identify trends and insights. Develop and implement data collection systems and strategies. Present data analysis findings to stakeholders.",
+      "educationalRequirements": "Bachelor's degree in Marketing or related field",
+      "experiences": "2+ years of experience in digital marketing",
+      "contactInformation": {
+        "phone": "555-2222",
+        "email": "jobs@xyzmarketing.com"
+      }
+    },
+    {
+      "id": "003",
+      "logo": "https://i.ibb.co/N3613CM/Daraz-Logo.png",
+      "title": "Marketing Manager",
+      "companyName": "Daraz Global",
+      "remoteOrOnsite": "Onsite",
+      "location": "New York, NY",
+      "jobTime": "Full-time",
+      "salary": "$80,000 - $100,000",
+      "job_description": "We are seeking a marketing manager to lead our marketing team. The ideal candidate should have a proven track record in developing and executing successful marketing strategies.",
+      "job_responsibility": "Develop and execute marketing campaigns across multiple channels. Manage and mentor the marketing team. Analyze and report on marketing performance.",
+      "educationalRequirements": "Bachelor's or Master's degree in Graphic Design, HCI, or related field",
+      "experiences": "3+ years of experience in UX design or related field",
+      "contactInformation": {
+        "phone": "555-3333",
+        "email": "jobs@123design.com"
+      }
+    },
+    {
+      "id": "004",
+      "logo": "https://i.ibb.co/dgRgj1C/Group-10021.png",
+      "title": "UI/UX Designer",
+      "companyName": "AirBnB",
+      "remoteOrOnsite": "Remote",
+      "location": "Anywhere",
+      "jobTime": "Full-time",
+      "salary": "$70,000 - $90,000",
+      "job_description": "We are seeking a talented UI/UX designer to join our design team. The ideal candidate should have a strong portfolio of design work and experience in creating intuitive user interfaces and experiences.",
+      "job_responsibility": "Create wireframes, prototypes, and high-fidelity designs. Collaborate with cross-functional teams to develop user-friendly interfaces. Conduct user research and usability testing.",
+      "educationalRequirements": "Bachelor's or Master's degree in Statistics, Economics, or related field",
+      "experiences": "2+ years of experience in data analysis or related field",
+      "contactInformation": {
+        "phone": "555-4444",
+        "email": "jobs@dataco.com"
+      }
+    },
+    {
+      "id": "005",
+      "logo": "https://i.ibb.co/ZfPNzfk/netflix-4-1.png",
+      "title": "Sales Representative",
+      "companyName": "Netflix",
+      "remoteOrOnsite": "Onsite",
+      "location": "Los Angeles, CA",
+      "jobTime": "Full-time",
+      "salary": "$60,000 - $80,000",
+      "job_description": "We are seeking a sales representative to join our team. The ideal candidate should have experience in B2B sales and a proven track record in meeting and exceeding sales targets.",
+      "job_responsibility": "Prospect and qualify leads. Develop and maintain relationships with clients. Manage and negotiate contracts.",
+      "educationalRequirements": "Bachelor's degree in Logistics or related field",
+      "experiences": "2+ years of experience in logistics or related field",
+      "contactInformation": {
+        "phone": "555-5555",
+        "email": "jobs@globallogistics.com"
+      }
+    },
+    {
+      "id": "006",
+      "logo": "https://i.ibb.co/3CD3dd4/amazon.png",
+      "title": "Product Manager",
+      "companyName": "Amazon INC.",
+      "remoteOrOnsite": "Onsite",
+      "location": "Chicago, IL",
+      "jobTime": "Part-time",
+      "salary": "$35,000 - $40,000",
+      "job_description": "We are seeking a product manager to lead the development and launch of new products. The ideal candidate should have experience in product management and a strong background in technology.",
+      "job_responsibility": "Lead the product development process from ideation to launch. Conduct market research and gather customer feedback. Collaborate with cross-functional teams to develop product roadmaps.",
+      "educationalRequirements": "High school diploma or equivalent",
+      "experiences": "1+ years of experience in customer service or related field",
+      "contactInformation": {
+        "phone": "555-6666",
+        "email": "jobs@customerserviceinc.com"
+      }
+    }
+  ]
+}
